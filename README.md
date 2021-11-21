@@ -1,2 +1,2 @@
-# matrix-and-transposed-matrix-project
- the objective of this project is to use a parameter matrix and display its resized matrix and its transposed matrix on the screen.
+# matriz-redimensionada-e-matriz-transposta
+O objetivo deste projeto é utilizar uma matriz parâmetro e exibir a sua matriz redimensionada e sua matriz transposta na tela de saída do usuário.
